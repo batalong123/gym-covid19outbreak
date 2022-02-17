@@ -65,7 +65,7 @@ Players can move following theses directions:
 The observation is a numpy arrays of size (800, 700, 3). This arrays is a dtype=np.uint8 value in the [0, 255] range. You can see image below. 
 
 <p align="center">
-	<img src="docs/covid19outbreak.gif" width=90% height=90% align="center"/><br>
+	<img src="docs/covid19outbreak.gif" width=70% height=70% align="center"/><br>
 </p>
 <em>gym-covid19outbreak</em>
 
