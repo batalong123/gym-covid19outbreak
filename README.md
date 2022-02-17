@@ -164,3 +164,5 @@ Bibtex if you want to cite this repository in your publications:
 ## Contribute
 
 Feel free to contribute to this project. You can fork this repository and implement whatever you want. Alternatively, open a new issue in case you need help or want to have a feature added.
+
+For any problem contact me: lumierebatalong@gmail.com
