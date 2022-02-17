@@ -1,7 +1,7 @@
 # gym-covid19outbreak
 
 <p align="center">
-	<img src="docs/sarscov2.jpg" width=50%, height=50% align="center"/><br>
+	<img src="docs/sarscov2.jpg" width=80%, height=80% align="center"/><br>
 </p>
 
 ***covid19outbreak pays tribute to all researchers in African pharmacopoeia, epidemiologists, doctors, nurses, etc. who have fought valiantly against Sars-Cov II*** 
@@ -65,7 +65,7 @@ Players can move following theses directions:
 The observation is a numpy arrays of size (800, 700, 3). This arrays is a dtype=np.uint8 value in the [0, 255] range. You can see image below. 
 
 <p align="center">
-	<img src="docs/covid19outbreak.gif" width=25% height=25% align="center"/><br>
+	<img src="docs/covid19outbreak.gif" width=90% height=90% align="center"/><br>
 </p>
 <em>gym-covid19outbreak</em>
 
@@ -73,7 +73,7 @@ The observation is a numpy arrays of size (800, 700, 3). This arrays is a dtype=
 
 The moves is the 8 directions mentioned before. Player can go everywhere in the screen to reach his objective.
 <p align="center">
-	<img src="docs/boy.png" width=25% height=25% align="center"/><br>
+	<img src="docs/boy.png" width=5% height=5% align="center"/><br>
 </p>
 <em>agent can move Up, Left, Right, Down, LeftTop, RightTop,  LeftBottom, RightBottom in the screen.</em>
 
