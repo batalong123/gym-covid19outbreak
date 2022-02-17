@@ -113,7 +113,7 @@ Dependencies can be installed with `pip` or `conda`
 
 
 ```
-$ git clone git@github.com:batalong123/gym-covid19outbreak.git
+$ git clone https://github.com/batalong123/gym-covid19outbreak.git
 $ cd gym-covid19outbreak
 $ pip install -e .
 ```
